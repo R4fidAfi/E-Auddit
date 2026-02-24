@@ -5,5 +5,4 @@ Nama Anggota :
 2. Elisa Ananda Natalia ( 2431417042)
 
 Link Tugas :<br>
-nanti di isi punya kita sa
-[Gantt Chart](https://docs.google.com/spreadsheets/d/118UQegkzVPbn31g7OVOXIAW-HZ5QWBgRpQ5P4BI0raY/edit?usp=sharing)
+[Gantt Chart](https://docs.google.com/spreadsheets/d/1RTqcwtW6NGnVfHA2hHuwkalOcAzCHjy0dIM7qkBUgpM/edit?usp=sharing)
